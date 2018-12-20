@@ -5,13 +5,13 @@ var geohash = require('ngeohash');
 var SpotifyWebApi = require('spotify-web-api-node');
 var cors = require('cors');
 var app = express();
-const TICKETMASTER_API = "ghDLm5eMtGHLKLlVOTWmvzu1NtSDfXb6";
-const GOOGLE_API = "AIzaSyAkZNY2CiQKs6sqp5iekdWGuxFpuVXIV80";
-const SONGKICK_API = "fLjZgRsG4bWasA25";
+const TICKETMASTER_API = "ghDLm5eMtGHLKLlVOTWmvzu1NtSD";
+const GOOGLE_API = "AIzaSyAkZNY2CiQKs6sqp5iekdWGuxFpuVX";
+const SONGKICK_API = "fLjZgRsG4bWa";
 
 var spotify_access_token = "";
-var clientId = '439fc6519d7c44298560be611e6547c4',
-    clientSecret = '810d1a74c5114eddb58c27f267013231';
+var clientId = '439fc6519d7c44298560be611e65',
+    clientSecret = '810d1a74c5114eddb58c27f26701';
 
 app.use(cors());
 app.use(express.static("public"));
