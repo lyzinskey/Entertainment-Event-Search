@@ -1,3 +1,3 @@
 # Entertainment-Event-Search
 
-Link: http://yanzhili.us-west-1.elasticbeanstalk.com/
+Demo video: https://www.youtube.com/watch?v=i4JLjpDrrCg
