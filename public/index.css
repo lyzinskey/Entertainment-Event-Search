@@ -1,0 +1,255 @@
+#search-form {
+    width: 80%;
+    margin: 20px auto;
+    background-color: #F5F5F5;
+    border: 1px solid lightgrey;
+    border-radius: 10px;
+}
+
+table, th, td {
+    vertical-align: center;
+}
+
+h5 {
+    text-align: center;
+    margin-bottom: 15px;
+    margin-top: 15px;
+}
+
+.please-enter {
+    color: red;
+}
+
+.star {
+    color: red;
+}
+
+.form-group {
+    padding-left: 10%;
+    padding-right: 10%;
+}
+
+#category {
+    width: 30%;
+    float: left;
+}
+
+#distance {
+    width: 30%;
+    float: left;
+}
+
+#distance-miles {
+    margin-left: 10%;
+    width: 30%;
+    float: left;
+}
+
+.btn-outline-dark {
+    border-color: lightgrey;
+}
+
+.btn-light {
+    color: #0069d9;
+    background-color: white;
+}
+
+.no-search-result-alert {
+    width: 80%;
+    border-radius: 5px;
+    margin: 20% auto auto;
+}
+
+#results-favorites {
+    text-align: center;
+}
+
+#resultTable {
+    margin-top: 20px;
+    margin-left: auto;
+    margin-right: auto;
+    width: 80%;
+    vertical-align: middle;
+}
+
+#resultTableProgressBar {
+    margin-top: 25px;
+    margin-left: auto;
+    margin-right: auto;
+    width: 80%;
+}
+
+#detailTableProgressBar {
+    margin-top: 25%;
+    margin-left: auto;
+    margin-right: auto;
+    width: 90%;
+}
+
+#detailsButton {
+    border: 1px solid black;
+    float: right;
+    margin-bottom: 10px;
+    color: black;
+}
+
+.favoriteButton {
+    border: 1px solid lightgrey;
+    color: black;
+}
+
+.fas.fa-star {
+    color: gold;
+}
+
+#event-detail-table {
+    width: 80%;
+    margin: auto;
+}
+
+#event-detail-name {
+    text-align: center;
+    margin: 20px auto;
+}
+
+#listButton-twitter-favorite {
+    width: 100%;
+}
+
+#listButton {
+    border: 1px solid black;
+    float: left;
+    margin-bottom: 10px;
+    color: black;
+}
+
+#twitter-button {
+    float: right;
+    margin-right: 5px;
+    margin-left: 15%;
+}
+
+#favorite-button {
+    float: right;
+}
+
+#nav-tab {
+    float: right;
+    margin-top: 5px;
+    margin-bottom: 15px;
+}
+
+#nav-event {
+    margin-top: 20px;
+    margin-left: auto;
+    margin-right: auto;
+    vertical-align: middle;
+}
+
+.circle-progress {
+    width: 50px;
+    position: relative;
+    top: -20px;
+}
+
+.circle-progress-number {
+    position: relative;
+    left: 15px;
+    top: 15px;
+}
+
+.nav-artist-artistName {
+    text-align: center;
+    margin: 20% auto 20px;
+    width: 100%;
+}
+
+.nav-venue-venueName {
+    text-align: center;
+    margin: 20% auto 20px;
+}
+
+#googleMap {
+    height: 400px;
+    overflow: visible;
+    margin-bottom: 50px;
+}
+
+.upcoming-events-artist-name {
+    color: orange;
+}
+
+#all-upcoming-events {
+    margin-top: 18%;
+    text-align: center;
+}
+
+.card {
+    margin-bottom: 15px;
+    text-align: left;
+}
+
+#show-more-less {
+    margin-top: 30px;
+}
+
+#sortingSelection {
+    margin-top: 19%;
+    margin-bottom: 20px;
+}
+
+#upcomingEventsSorting {
+    width: 30%;
+    margin-left: 0;
+    float: left;
+}
+
+#ascendingOrDescending {
+    width: 30%;
+    margin-left: 0;
+    margin-right: 40%;
+    float: left;
+}
+
+/*fade animation*/
+.card.ng-scope.ng-enter {
+    transition:0.5s linear all;
+    opacity:0;
+}
+
+.card.ng-scope.ng-enter.ng-enter-active {
+    opacity:1;
+}
+
+.card.ng-scope.ng-leave {
+    transition:0.5s linear all;
+    opacity:1;
+}
+.card.ng-scope.ng-leave.ng-leave-active {
+    opacity:0;
+}
+
+#favoriteTable {
+    margin-top: 20px;
+    margin-left: auto;
+    margin-right: auto;
+    width: 80%;
+    vertical-align: middle;
+}
+
+#favoriteDetailsButton {
+    border: 1px solid black;
+    float: right;
+    margin-bottom: 10px;
+    color: black;
+}
+
+.w3-animate-left{position:relative;animation:animateleft 0.4s}
+@keyframes animateleft
+{from{left:-300px;opacity:0}
+    to{left:0;opacity:1}}
+
+.w3-animate-right{position:relative;animation:animateright 0.4s}
+@keyframes animateright
+{from{right:-300px;opacity:0}
+    to{right:0;opacity:1}}
