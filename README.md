@@ -46,6 +46,7 @@ Demo video: https://youtu.be/tYsHHUBPTeA
 
 ###  
 ### Pics of "Artists/Teams" tab (cont.)
+
 ![alt text](/snapshots/teams2.png)
 
 
@@ -64,6 +65,7 @@ Demo video: https://youtu.be/tYsHHUBPTeA
 
 ###  
 ### Upcoming Events (cont.)
+
 ![alt text](/snapshots/upcoming_sort.png)
 
 
@@ -80,7 +82,9 @@ Demo video: https://youtu.be/tYsHHUBPTeA
 
 ![alt text](/snapshots/artist1.png)
 
-![alt text](/snapshots/artist1.png)
+### Artist (cont.)
+
+![alt text](/snapshots/artist2.png)
 
 
 
