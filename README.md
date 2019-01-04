@@ -4,9 +4,11 @@ Demo video: https://youtu.be/tYsHHUBPTeA
 
 
 ## Snapshots for detail
+
 ### Initial page
 
 ![alt text](/snapshots/initial.png)
+
 
 
 
@@ -16,9 +18,11 @@ Demo video: https://youtu.be/tYsHHUBPTeA
 
 
 
+
 ### Search Result
 
 ![alt text](/snapshots/search_result.png)
+
 
 
 
@@ -28,9 +32,11 @@ Demo video: https://youtu.be/tYsHHUBPTeA
 
 
 
+
 ### When you click on "Seat Map"
 
 ![alt text](/snapshots/seatMap.png)
+
 
 
 
@@ -38,14 +44,17 @@ Demo video: https://youtu.be/tYsHHUBPTeA
 
 ![alt text](/snapshots/teams.png)
 
+
 ### Pics of "Artists/Teams" tab (cont.)
 ![alt text](/snapshots/teams2.png)
+
 
 
 
 ### Pics of "Venue" tab
 
 ![alt text](/snapshots/venue.png)
+
 
 
 
@@ -56,9 +65,11 @@ Demo video: https://youtu.be/tYsHHUBPTeA
 
 
 
+
 ### After an event details are performed, the corresponding event row in the result table will be highlighted
 
 ![alt text](/snapshots/clicked_event.png)
+
 
 
 
@@ -70,6 +81,8 @@ Demo video: https://youtu.be/tYsHHUBPTeA
 
 
 
+
 ### When user click the "Favorite Button" (the star), the corresponding event can be found in favorites tab
 
 ![alt text](/snapshots/favorite.png)
+
