@@ -49,6 +49,7 @@ Demo video: https://youtu.be/tYsHHUBPTeA
 ### Upcoming Events (These events can be sorted by Default, Event Name, Time, Artist, and Type in ascending or descending order)
 
 ![alt text](/snapshots/upcoming.png)
+![alt text](/snapshots/upcoming_sort.png)
 
 
 
