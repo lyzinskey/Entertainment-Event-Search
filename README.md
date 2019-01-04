@@ -37,6 +37,7 @@ Demo video: https://youtu.be/tYsHHUBPTeA
 ### Pics of "Artists/Teams" tab
 
 ![alt text](/snapshots/teams.png)
+![alt text](/snapshots/teams2.png)
 
 
 
