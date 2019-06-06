@@ -67,7 +67,7 @@ Demo video: https://youtu.be/tYsHHUBPTeA
 
 
 
-### After an event details are performed, the corresponding event row in the result table will be highlighted
+### After details of an event are performed, the corresponding event row in the result table will be highlighted
 
 ![alt text](/snapshots/clicked_event.png) <br>
 
