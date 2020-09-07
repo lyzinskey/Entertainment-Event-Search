@@ -10,7 +10,7 @@
     "animate.css": "^3.7.0",
     "cors": "^2.8.4",
     "express": "^4.16.4",
-    "http-proxy": "^1.17.0",
+    "http-proxy": "^1.18.1",
     "ngeohash": "^0.6.0",
     "request": "^2.88.0",
     "spotify-web-api-node": "^4.0.0",
