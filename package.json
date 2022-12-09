@@ -9,7 +9,7 @@
     "angular-svg-round-progressbar": "^2.0.0",
     "animate.css": "^3.7.0",
     "cors": "^2.8.4",
-    "express": "^4.16.4",
+    "express": "^4.17.3",
     "http-proxy": "^1.18.1",
     "ngeohash": "^0.6.0",
     "request": "^2.88.0",
